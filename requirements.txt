@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+anaconda
+lxml
+pyquery
+fake_useragent
