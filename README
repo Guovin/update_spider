@@ -1,0 +1,7 @@
+多线程同时执行获取Havoc、Ethereal内核、Underground内核、Uperf调度的更新提醒，并发送邮件提醒。
+自动更新代理ip地址、UserAgent（针对Ethereal内核更新的爬取）。
+部署至Docker，实现全天候运行。
+鉴于更新的延时性，获取更新成功会休眠该线程一段时间。
+
+请求头转换链接：
+https://curl.trillworks.com/
